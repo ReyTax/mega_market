@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+asgiref = "==3.4.1"
+"backports.zoneinfo" = "==0.2.1"
+certifi = "==2021.10.8"
+charset-normalizer = "==2.0.9"
+django-environ = "==0.8.1"
+django-filter = "==21.1"
+djangorestframework = "==3.13.1"
+docopt = "==0.6.2"
+idna = "==3.3"
+importlib-metadata = "==4.9.0"
+pipreqs = "==0.4.11"
+psycopg2-binary = "==2.9.2"
+pytz = "==2021.3"
+requests = "==2.26.0"
+sqlparse = "==0.4.2"
+tzdata = "==2021.5"
+urllib3 = "==1.26.7"
+yarg = "==0.1.9"
+zipp = "==3.6.0"
+Django = "==4.0"
+Markdown = "==3.3.6"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
